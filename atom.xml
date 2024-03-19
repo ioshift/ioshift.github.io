@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ioshift.github.io</id>
+    <title>ioshift&apos;s math blog</title>
+    <updated>2024-03-19T03:09:35.769Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ioshift.github.io"/>
+    <link rel="self" href="https://ioshift.github.io/atom.xml"/>
+    <subtitle>We must know. We will know.</subtitle>
+    <logo>https://ioshift.github.io/images/avatar.png</logo>
+    <icon>https://ioshift.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, ioshift&apos;s math blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Natural Number Is Ordered]]></title>
+        <id>https://ioshift.github.io/post/natural-number-is-ordered/</id>
+        <link href="https://ioshift.github.io/post/natural-number-is-ordered/">
+        </link>
+        <updated>2024-03-02T09:59:11.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sum of Self-Power Function]]></title>
+        <id>https://ioshift.github.io/post/sum-of-self-power-function/</id>
+        <link href="https://ioshift.github.io/post/sum-of-self-power-function/">
+        </link>
+        <updated>2024-02-05T11:29:56.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integral of Normal Distribution]]></title>
+        <id>https://ioshift.github.io/post/integral-of-normal-distribution/</id>
+        <link href="https://ioshift.github.io/post/integral-of-normal-distribution/">
+        </link>
+        <updated>2023-12-29T03:25:25.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Series of Sum of Distance]]></title>
+        <id>https://ioshift.github.io/post/a-series-of-sum-of-distance/</id>
+        <link href="https://ioshift.github.io/post/a-series-of-sum-of-distance/">
+        </link>
+        <updated>2023-12-20T12:24:06.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sum of Reciprocals of Products of Coprime Numbers]]></title>
+        <id>https://ioshift.github.io/post/sum-of-reciprocals-of-products-of-coprime-numbers/</id>
+        <link href="https://ioshift.github.io/post/sum-of-reciprocals-of-products-of-coprime-numbers/">
+        </link>
+        <updated>2023-12-15T10:25:05.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Irrational Numbers and Graph Theory]]></title>
+        <id>https://ioshift.github.io/post/irrational-numbers-and-graph-theory/</id>
+        <link href="https://ioshift.github.io/post/irrational-numbers-and-graph-theory/">
+        </link>
+        <updated>2023-12-15T10:16:50.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coprime and Probability]]></title>
+        <id>https://ioshift.github.io/post/coprime-and-probability/</id>
+        <link href="https://ioshift.github.io/post/coprime-and-probability/">
+        </link>
+        <updated>2023-12-11T16:14:34.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Recurrence and Convergence]]></title>
+        <id>https://ioshift.github.io/post/recurrence-and-convergence/</id>
+        <link href="https://ioshift.github.io/post/recurrence-and-convergence/">
+        </link>
+        <updated>2023-12-11T12:25:20.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【2023CMO#1】Factorization & Greatest Composite Number]]></title>
+        <id>https://ioshift.github.io/post/2023cmo1-factorization-and-greatest-composite-number/</id>
+        <link href="https://ioshift.github.io/post/2023cmo1-factorization-and-greatest-composite-number/">
+        </link>
+        <updated>2023-12-06T02:32:54.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Floor Function, Range Reappearance & Binary System]]></title>
+        <id>https://ioshift.github.io/post/floor-function-range-reappearance-and-binary-system/</id>
+        <link href="https://ioshift.github.io/post/floor-function-range-reappearance-and-binary-system/">
+        </link>
+        <updated>2023-11-27T10:34:14.000Z</updated>
+    </entry>
+</feed>
