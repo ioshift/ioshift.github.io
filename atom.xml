@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ioshift.github.io</id>
+    <title>ioshift&apos;s math blog</title>
+    <updated>2024-07-15T02:25:22.490Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ioshift.github.io"/>
+    <link rel="self" href="https://ioshift.github.io/atom.xml"/>
+    <subtitle>We must know. We will know.</subtitle>
+    <logo>https://ioshift.github.io/images/avatar.png</logo>
+    <icon>https://ioshift.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, ioshift&apos;s math blog</rights>
+    <entry>
+        <title type="html"><![CDATA[Analysis Problem (1)]]></title>
+        <id>https://ioshift.github.io/post/analysis-problem-1/</id>
+        <link href="https://ioshift.github.io/post/analysis-problem-1/">
+        </link>
+        <updated>2024-07-15T02:17:21.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combination Problem (2)]]></title>
+        <id>https://ioshift.github.io/post/combination-problem-2/</id>
+        <link href="https://ioshift.github.io/post/combination-problem-2/">
+        </link>
+        <updated>2024-07-14T08:56:16.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Algebra Problem (1)]]></title>
+        <id>https://ioshift.github.io/post/algebra-problem-1/</id>
+        <link href="https://ioshift.github.io/post/algebra-problem-1/">
+        </link>
+        <updated>2024-07-08T01:25:34.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Combination Problem (1)]]></title>
+        <id>https://ioshift.github.io/post/combination-problem-1/</id>
+        <link href="https://ioshift.github.io/post/combination-problem-1/">
+        </link>
+        <updated>2024-07-06T10:25:52.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Integration Problem (1)]]></title>
+        <id>https://ioshift.github.io/post/integration-problem-1/</id>
+        <link href="https://ioshift.github.io/post/integration-problem-1/">
+        </link>
+        <updated>2024-07-06T09:30:24.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Direct Method to Linear Coupled Differential Equation]]></title>
+        <id>https://ioshift.github.io/post/a-direct-method-to-linear-coupled-differential-equation/</id>
+        <link href="https://ioshift.github.io/post/a-direct-method-to-linear-coupled-differential-equation/">
+        </link>
+        <updated>2024-05-23T02:19:19.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximum Number of Sets With Intersection Order One]]></title>
+        <id>https://ioshift.github.io/post/maximum-number-of-sets-with-intersection-order-one/</id>
+        <link href="https://ioshift.github.io/post/maximum-number-of-sets-with-intersection-order-one/">
+        </link>
+        <updated>2024-05-13T05:43:41.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sum of Euler's Totient Function By Group Theory]]></title>
+        <id>https://ioshift.github.io/post/sum-of-eulers-totient-function-by-group-theory/</id>
+        <link href="https://ioshift.github.io/post/sum-of-eulers-totient-function-by-group-theory/">
+        </link>
+        <updated>2024-05-03T10:33:41.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Counting Subsets By Generating Functions]]></title>
+        <id>https://ioshift.github.io/post/counting-subsets-by-generating-functions/</id>
+        <link href="https://ioshift.github.io/post/counting-subsets-by-generating-functions/">
+        </link>
+        <updated>2024-04-28T12:41:23.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maximum lcm Under Constant Sum]]></title>
+        <id>https://ioshift.github.io/post/maximum-lcm-under-constant-sum/</id>
+        <link href="https://ioshift.github.io/post/maximum-lcm-under-constant-sum/">
+        </link>
+        <updated>2024-04-02T10:08:35.000Z</updated>
+    </entry>
+</feed>
